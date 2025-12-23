@@ -1,0 +1,9 @@
+product_id,product_name,current_stock,burn_rate,days_left,stockout_date,status
+101,Double-Sided Carpet Tape,8,13.93,0,2025-12-24,CRITICAL
+102,Heavy Duty Entrance Mat,5,7.75,0,2025-12-24,CRITICAL
+103,Modern Grey Shag Rug,147,2.13,69,2026-03-02,OK
+104,Non-Slip Rug Pad,117,2.16,54,2026-02-15,OK
+105,Kitchen Anti-Fatigue Mat,115,2.08,55,2026-02-17,OK
+106,Royal Persian Silk Rug,4,0.21,18,2026-01-11,OK
+107,Hand-Woven Wool Carpet,4,0.21,19,2026-01-12,OK
+108,Artificial Grass Rug,250,0.42,600,2027-08-16,OK

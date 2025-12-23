@@ -1,0 +1,9 @@
+id,name,cat,price,stock,velocity_factor
+101,Double-Sided Carpet Tape,Installation,15,8,8.0
+102,Heavy Duty Entrance Mat,Mat,45,5,8.0
+103,Modern Grey Shag Rug,Rug,200,147,2.0
+104,Non-Slip Rug Pad,Installation,50,117,2.0
+105,Kitchen Anti-Fatigue Mat,Mat,35,115,2.0
+106,Royal Persian Silk Rug,Luxury,1500,4,0.2
+107,Hand-Woven Wool Carpet,Luxury,600,4,0.2
+108,Artificial Grass Rug,Outdoor,90,250,0.5
