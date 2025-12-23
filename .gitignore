@@ -1,0 +1,14 @@
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Data (Optional: keep if you want to push dummy data, ignore if large)
+# data/
+
+# IDE settings
+.vscode/
+.idea/
